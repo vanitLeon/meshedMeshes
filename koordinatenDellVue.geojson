@@ -1,0 +1,368 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.27251458738213, 6.119329409784785]
+		},
+		"properties": {
+			"flush": true,
+			"shower": true,
+			"vault": false,
+			"description": "Billig einkaufen",
+			"title": "Aldi",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.27531224040969, 6.1204022934042595]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": true,
+			"description": "Billig einkaufen",
+			"title": "Lidl",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.27665615253878, 6.117484049948476]
+		},
+		"properties": {
+			"flush": true,
+			"shower": false,
+			"vault": false,
+			"description": "Vielfältige Auswahl",
+			"title": "Delhaize",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28417039056639, 6.128427462841708]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": true,
+			"description": "Große Auswahl an frischen Produkten",
+			"title": "Carrefour",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.284680123820145, 6.122026465933809]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": true,
+			"description": "Gehobene Küche",
+			"title": "Quadras",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.284211284383865, 6.122902213986849]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": true,
+			"description": "Fast Food",
+			"title": "Tischlein deck dich",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28504309311839, 6.123754293173593]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Türkisch",
+			"title": "Fast Food",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28419616045748, 6.124417021429947]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": true,
+			"description": "Italienisch",
+			"title": "La Grappa",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28312234916655, 6.12436968369735]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": true,
+			"description": "Fast Food",
+			"title": "Pama Rastaurant",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28272911643639, 6.126050173204536]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": true,
+			"description": "Italienisch",
+			"title": "Restaurant Napoli",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28236612949424, 6.126026504338238]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Chinesisch",
+			"title": "Le Chine",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28069207472697, 6.126848362008141]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Pizzeria",
+			"title": "Pizzeria Pozzo",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28077790012066, 6.12639660385395]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Restaurant mit moderner europäischer Küche",
+			"title": "Restaurant Sit Down",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28025885079386, 6.12621789223335]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Gehobene Küche",
+			"title": "Gourmet-Restaurant Hotel Zur Post",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.280010390887234, 6.1263578620836645]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Restaurant",
+			"title": "Fit ó Fago",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28032841933318, 6.127928634851442]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Pizzeria",
+			"title": "Pizzeria Roma",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.27981344922554, 6.127336933572759]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Eis",
+			"title": "Gelateria Panella",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.27948847249533, 6.127319397774769]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Fast Food",
+			"title": "TELLER'S - Quality Fast Food",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.279258746226844, 6.126986217612945]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Restaurant",
+			"title": "Relax Hotel Restaurant Pip-Margraff",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.27908505001957, 6.127556131047644]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Belgische Küche",
+			"title": "An den Linden",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.278771274619174, 6.129195728159774]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Fast Food",
+			"title": "Checkpoint Burger&Bar / Fritüre",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.293277711045825, 6.118259000761686]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Bank",
+			"title": "AXA Banque Schmatz & Partners Finance",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.284577299445054, 6.124969521748677]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Bank",
+			"title": "BNP Paribas Fortis Saint Vith",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.282381030684775, 6.126606234195897]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Bank",
+			"title": "Belfius",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.28141882387436, 6.126180688959621]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Bank",
+			"title": "ING",
+			"marker-size": "small"
+		},
+	} {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.280582106470455, 6.123660151776467]
+		},
+		"properties": {
+			"flush": false,
+			"shower": false,
+			"vault": false,
+			"description": "Bank",
+			"title": "KBC",
+			"marker-size": "small"
+		},
+	}]
+}
