@@ -8,7 +8,7 @@
 		},
 		"properties": {
 			"flush": true,
-			"shower": true,
+			"shower": false,
 			"vault": false,
 			"description": "Billig einkaufen",
 			"title": "Aldi",
@@ -21,9 +21,9 @@
 			"coordinates": [6.1204022934042595, 50.27531224040969]
 		},
 		"properties": {
-			"flush": false,
+			"flush": true,
 			"shower": false,
-			"vault": true,
+			"vault": false,
 			"description": "Billig einkaufen",
 			"title": "Lidl",
 			"marker-size": "small"
@@ -49,9 +49,9 @@
 			"coordinates": [6.128427462841708, 50.28417039056639]
 		},
 		"properties": {
-			"flush": false,
+			"flush": true,
 			"shower": false,
-			"vault": true,
+			"vault": false,
 			"description": "Große Auswahl an frischen Produkten",
 			"title": "Carrefour",
 			"marker-size": "small"
@@ -64,8 +64,8 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
-			"vault": true,
+			"shower": true,
+			"vault": false,
 			"description": "Gehobene Küche",
 			"title": "Quadras",
 			"marker-size": "small"
@@ -78,8 +78,8 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
-			"vault": true,
+			"shower": true,
+			"vault": false,
 			"description": "Fast Food",
 			"title": "Tischlein deck dich",
 			"marker-size": "small"
@@ -92,7 +92,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Türkisch",
 			"title": "Fast Food",
@@ -106,8 +106,8 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
-			"vault": true,
+			"shower": true,
+			"vault": false,
 			"description": "Italienisch",
 			"title": "La Grappa",
 			"marker-size": "small"
@@ -120,8 +120,8 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
-			"vault": true,
+			"shower": true,
+			"vault": false,
 			"description": "Fast Food",
 			"title": "Pama Rastaurant",
 			"marker-size": "small"
@@ -134,8 +134,8 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
-			"vault": true,
+			"shower": true,
+			"vault": false,
 			"description": "Italienisch",
 			"title": "Restaurant Napoli",
 			"marker-size": "small"
@@ -148,7 +148,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Chinesisch",
 			"title": "Le Chine",
@@ -162,7 +162,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Pizzeria",
 			"title": "Pizzeria Pozzo",
@@ -176,7 +176,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Restaurant mit moderner europäischer Küche",
 			"title": "Restaurant Sit Down",
@@ -190,7 +190,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Gehobene Küche",
 			"title": "Gourmet-Restaurant Hotel Zur Post",
@@ -204,7 +204,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Restaurant",
 			"title": "Fit ó Fago",
@@ -218,7 +218,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Pizzeria",
 			"title": "Pizzeria Roma",
@@ -232,7 +232,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Eis",
 			"title": "Gelateria Panella",
@@ -246,7 +246,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Fast Food",
 			"title": "TELLER'S - Quality Fast Food",
@@ -260,7 +260,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Restaurant",
 			"title": "Relax Hotel Restaurant Pip-Margraff",
@@ -274,7 +274,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Belgische Küche",
 			"title": "An den Linden",
@@ -288,7 +288,7 @@
 		},
 		"properties": {
 			"flush": false,
-			"shower": false,
+			"shower": true,
 			"vault": false,
 			"description": "Fast Food",
 			"title": "Checkpoint Burger&Bar / Fritüre",
@@ -303,7 +303,7 @@
 		"properties": {
 			"flush": false,
 			"shower": false,
-			"vault": false,
+			"vault": true,
 			"description": "Bank",
 			"title": "AXA Banque Schmatz & Partners Finance",
 			"marker-size": "small"
@@ -317,7 +317,7 @@
 		"properties": {
 			"flush": false,
 			"shower": false,
-			"vault": false,
+			"vault": true,
 			"description": "Bank",
 			"title": "BNP Paribas Fortis Saint Vith",
 			"marker-size": "small"
@@ -331,7 +331,7 @@
 		"properties": {
 			"flush": false,
 			"shower": false,
-			"vault": false,
+			"vault": true,
 			"description": "Bank",
 			"title": "Belfius",
 			"marker-size": "small"
@@ -345,7 +345,7 @@
 		"properties": {
 			"flush": false,
 			"shower": false,
-			"vault": false,
+			"vault": true,
 			"description": "Bank",
 			"title": "ING",
 			"marker-size": "small"
@@ -359,7 +359,7 @@
 		"properties": {
 			"flush": false,
 			"shower": false,
-			"vault": false,
+			"vault": true,
 			"description": "Bank",
 			"title": "KBC",
 			"marker-size": "small"
